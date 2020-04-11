@@ -1,20 +1,46 @@
-nav{
+body{
+  background: white;
+
+}
+.desktop{
+  border: 1px solid black;
+  max-width:5%;
+  width:auto;
+  height:auto;
+}
+#logo{
+  border: 1px solid black;
+  display: block;
+  display: inline-block;
+  font-style: bolder;
+}
+#menu{
+  border: 1px solid black;
+  display: block;
+  display: inline-block;
+}
+#icon{
   border: 1px solid black;
 }
-h1{
+#ddhicon{
+  border: 1px solid black;
+  max-width:100%;
+  width:auto;
+  height:auto;
+}
+#fromdodaha{
   font-style: Copperplate;
   color: black;
   border: 1px solid black;
   display: block;
   display: inline-block;
 }
-img{
-  height: 30%;
-  width: 30%;
+#maintext{
   border: 1px solid black;
+  display: block;
+  display: inline-block;
 }
-
-p{
+maintext.p{
   border: 1px solid black;
   display: inline-block;
 }
