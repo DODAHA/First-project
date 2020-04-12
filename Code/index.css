@@ -1,11 +1,21 @@
 body{
+  /*background-image: url("/Users/dodaha/Documents/NY Studios Inc./GitHub/First-project/img/image16ksvg.svg");
+  background-repeat: no-repeat;
+  background-size: fixed;
+  background-position: right center;
+  background-size: 80% 100%;*/
   font-size: 20px;
   font-family: Permanent Marker;
   background-color: #FFFFFF;
 }
+#logomain{
+  border: 1px solid black;
+  float: right;
+  
+}
 .desktop{
   border: 1px solid black;
-  max-width:5%;
+  max-width:10%;
   width:auto;
   height:auto;
 }
@@ -23,10 +33,10 @@ body{
 }
 #icon{
   border: 1px solid black;
-  max-width:5%;
+  max-width:12%;
   width:auto;
   height:auto;
-  margin-left: 10%;
+  margin-left: 8%;
 }
 #ddhicon{
   border: 1px solid black;
@@ -43,7 +53,7 @@ body{
   display: block;
   display: inline-block;
   margin-left: 10%;
-  
+  padding: 10px;
 }
 #maintext{
   border: 1px solid black;
@@ -60,5 +70,9 @@ p{
 }
 #footer{
   border: 1px solid black;
+  text-align: left;
+  margin-left: 15%;
+  display: block;
+  display: inline-block;
   text-align: center;
 }
